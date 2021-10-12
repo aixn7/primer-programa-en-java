@@ -4,6 +4,7 @@ public class MiPrimeraClase {
 
 		System.out.println("Ivar Fernandez Martinez");
 		System.out.println("Leon 1995");
+		System.out.println("Leon Windows 10");
 
 	}
 
