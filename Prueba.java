@@ -1,10 +1,10 @@
-public class MiPrimeraClase {
+public class Prueba {
 
 	public static void main(String args[]) {
 
-		System.out.println("Ivar Fernandez Martinez");
 		System.out.println("Leon 1995");
 		System.out.println("Leon Windows 10");
+		System.out.println("Mago de Oz");
 
 	}
 
